@@ -1,0 +1,23 @@
+#first {
+    color: blue;
+    font-size: 36px;
+
+}
+
+p.imaclass {
+    background-color: rgb(255, 161, 161);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+p.coolerclass {
+    font-size: 24px;
+    background-color: rgb(255, 161, 161);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
